@@ -56,3 +56,5 @@ nvm alias default 20
 - NWS APIはアメリカ国内の天気情報のみ対応
 - 東京などの海外都市は非対応
 - Cursor設定変更後は必ず**完全再起動**が必要
+# Weather_MCP
+# Weather_MCP
